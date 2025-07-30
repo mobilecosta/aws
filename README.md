@@ -15,3 +15,6 @@ https://www.youtube.com/live/O7LdBWzN1Bo
 
 Custo:
 <img width="763" height="367" alt="image" src="https://github.com/user-attachments/assets/5ffb901c-4dda-4cb5-9de0-16e82456e932" />
+
+
+<img width="582" height="435" alt="image" src="https://github.com/user-attachments/assets/28523785-4703-48dc-8843-553a947c7509" />
