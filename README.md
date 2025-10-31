@@ -40,3 +40,6 @@ Não jogue dinheiro fora.​
 Enquanto muita gente paga caro por NAT Gateway desnecessário, você pode estar otimizando sua infraestrutura e economizando de forma inteligente.
 
 https://click.convertkit-mail2.com/xmuglm88mmi6hp9e2zrb5h2p3xzllcnhvn2eg/n2hohquvvqvxd4i0/aHR0cHM6Ly95b3V0dS5iZS80b1d5RE9jQWFhZw==
+
+## Videos
+## 1 - https://www.youtube.com/watch?v=-_MTMTOt0eI
