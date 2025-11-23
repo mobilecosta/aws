@@ -19,10 +19,9 @@ Custo:
 
 <img width="582" height="435" alt="image" src="https://github.com/user-attachments/assets/28523785-4703-48dc-8843-553a947c7509" />
 
-Henrile HotMart
+## Henrile HotMart
 
 https://hotmart.com/pt-br/club/formacaoaws/products/5751501?utm_medium=email&utm_source=platform&access_source=post_purchase_email&utm_campaign=all_journey_access-after-purchase_hiperlink_club-old-user
-
 
 ## Curso
 
@@ -43,3 +42,5 @@ https://click.convertkit-mail2.com/xmuglm88mmi6hp9e2zrb5h2p3xzllcnhvn2eg/n2hohqu
 
 ## Videos
 ## 1 - https://www.youtube.com/watch?v=-_MTMTOt0eI
+
+## https://www.linkedin.com/posts/williamdominguesbarbosa_launch-template-ecs-ugcPost-7397276325989920768-76sP/?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
