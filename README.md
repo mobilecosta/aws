@@ -47,3 +47,12 @@ https://click.convertkit-mail2.com/xmuglm88mmi6hp9e2zrb5h2p3xzllcnhvn2eg/n2hohqu
 
 ## Creditos
 https://www.spendbase.co/aws-cloud-cost-management_v2/?utm_source=facebook&utm_medium=cpc&utm_campaign=conv_aws_latam_creo_16&utm_content=ad_aws_16.3&utm_id=120234096859420217&utm_term=120237036238080217&fbclid=IwY2xjawOv9TFleHRuA2FlbQEwAGFkaWQBqyryua_6eXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4wjVT-mZK_KttPSxRPlUL5-indF-c8Zs6UObkr56n1az5leXf1Xpclz80E8g_aem_dW7xp-CvMXt26nMUAa8n5g
+
+## Projeto AWS
+Concluí mais um projeto prática em Cloud Computing, realizando o deploy de uma aplicação Docker na AWS utilizando a AWS CLI. Durante a atividade, configurei a CLI, validei as credenciais da conta e criei um repositório no Amazon ECR para armazenar a imagem da aplicação.
+Esse processo reforçou a importância da automação e do gerenciamento de recursos por linha de comando.
+Após a publicação da imagem no Amazon ECR, criei uma instância Amazon EC2 utilizando a AWS CLI e realizei o acesso remoto via SSH. Em seguida, instalei o Docker na instância, autentiquei novamente no ECR e fiz o download da imagem para execução do container.
+Essa etapa permitiu compreender, na prática, o fluxo completo de implantação de uma aplicação em ambiente de nuvem.
+Com o container em execução, validei o funcionamento da aplicação por meio do endereço IP público da instância, confirmando que o serviço estava disponível para acesso externo. Além da implementação, documentei todas as etapas do processo, garantindo rastreabilidade e reprodutibilidade do projeto.
+A experiência consolidou conhecimentos em AWS CLI, Amazon ECR, Amazon EC2, Docker, SSH e práticas de deploy em ambientes Cloud.
+Projetos práticos como este contribuem para o desenvolvimento de competências essenciais em infraestrutura e computação em nuvem, proporcionando uma visão mais ampla sobre o ciclo de implantação de aplicações e fortalecendo a capacidade de atuar em cenários próximos aos encontrados no mercado.
