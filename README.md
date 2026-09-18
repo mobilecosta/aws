@@ -23,6 +23,8 @@ Custo:
 
 https://hotmart.com/pt-br/club/formacaoaws/products/5751501?utm_medium=email&utm_source=platform&access_source=post_purchase_email&utm_campaign=all_journey_access-after-purchase_hiperlink_club-old-user
 
+## Bucket - https://lnkd.in/p/dfyhiWrB
+
 ## Curso
 
 Economize na sua conta AWS • Mais inteligente • Mesmo desempenho
