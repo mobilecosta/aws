@@ -23,6 +23,9 @@ Custo:
 
 https://hotmart.com/pt-br/club/formacaoaws/products/5751501?utm_medium=email&utm_source=platform&access_source=post_purchase_email&utm_campaign=all_journey_access-after-purchase_hiperlink_club-old-user
 
+## Repositorios
+https://github.com/Thiago-code-lab/Thiago-code-lab
+
 ## Bucket - https://lnkd.in/p/dfyhiWrB
 
 ## Curso
